@@ -1,0 +1,7 @@
+*.
+*.*
+!.gitignore
+!deploy_package.sh
+!lambda_function.py
+!README.md
+!requirements.txt
