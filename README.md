@@ -1,5 +1,5 @@
-# aws-lambda-deploy-python-package
-Script to deploy python functions into AWS lambda.
+# AWS Lambda Deploy Script for python package
+This is one-line shell script to deploy python functions into AWS lambda.
 ---
 
 
@@ -9,7 +9,7 @@ Script to deploy python functions into AWS lambda.
 1. Modify `requirements.txt`: Required libraries for your lambda function.
 
 
-2. Modify `lambda_function.py`: This is actual function gets input from trigger.
+2. Modify `lambda_function.py`: This is actual lambda function gets input from trigger.
 
 
 3. Run `bash deploy_package.sh`
